@@ -15,3 +15,4 @@ echo Adiition of 2+2 is $ADD
 echo username $USER
 
 echo env var abc is $abc
+#export abc=100 from CLI can make this variable printed.
