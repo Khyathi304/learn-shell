@@ -4,7 +4,7 @@ echo a is $a or ${a}
 
 #Special Variables
 ##Comannd Substitution:
-DATE=${date}
+DATE=$(date)
 echo Todays date is $DATE
 
 ##Arithmetic Substitution
