@@ -10,3 +10,8 @@ echo Todays date is $DATE
 ##Arithmetic Substitution
 ADD=$(( 2+2 ))
 echo Adiition of 2+2 is $ADD
+
+#Access environment variables
+echo username $USER
+
+echo env var abc is $abc
